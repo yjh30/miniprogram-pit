@@ -1,0 +1,19 @@
+{
+  "name": "miniprogram-pit",
+  "version": "1.0.0",
+  "description": "微信小程序入坑记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yjh30/miniprogram-pit.git"
+  },
+  "author": "杨君华",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjh30/miniprogram-pit/issues"
+  },
+  "homepage": "https://github.com/yjh30/miniprogram-pit#readme"
+}
